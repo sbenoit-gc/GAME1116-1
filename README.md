@@ -17,6 +17,9 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or n
 6) Worn out brick wall, FreePBR, ( https://freepbr.com/product/worn-out-old-brick-wall-pbr-material/ )
 7) pavement material, FreePBR, ( https://freepbr.com/product/pebbled-asphalt1/ )
 8) Zebra, African Animal Variety pack,UE Market Place, ( https://www.unrealengine.com/marketplace/en-US/product/17c2d7d545674204a7644c3c0c4c58ba )
+9) Doozy character and animations from Mixamo, ( https://www.mixamo.com/ )
+10) "unarmed" animations, Lyra Start Game, Epic Games, ( https://www.unrealengine.com/marketplace/en-US/product/lyra?sessionInvalidated=true )
+
 
 
 
